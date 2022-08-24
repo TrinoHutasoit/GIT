@@ -1,0 +1,4 @@
+Materi pengujin
+1. manual
+2. otomatis
+3. API test
